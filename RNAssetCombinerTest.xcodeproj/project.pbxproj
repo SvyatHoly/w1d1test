@@ -3,10 +3,13 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1825F8B62514DB1800DA1A45 /* fourth.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1825F8B42514DB1700DA1A45 /* fourth.mp4 */; };
+		1825F8B72514DB1800DA1A45 /* first.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1825F8B52514DB1700DA1A45 /* first.mp4 */; };
+		1825F8B9251628E800DA1A45 /* third.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1825F8B8251628E800DA1A45 /* third.mp4 */; };
 		183BA73B24EBC50800CB8E02 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183BA73A24EBC50800CB8E02 /* AppDelegate.swift */; };
 		183BA73D24EBC50800CB8E02 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183BA73C24EBC50800CB8E02 /* SceneDelegate.swift */; };
 		183BA73F24EBC50800CB8E02 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183BA73E24EBC50800CB8E02 /* ViewController.swift */; };
@@ -14,6 +17,19 @@
 		183BA74424EBC50A00CB8E02 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 183BA74324EBC50A00CB8E02 /* Assets.xcassets */; };
 		183BA74724EBC50A00CB8E02 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 183BA74524EBC50A00CB8E02 /* LaunchScreen.storyboard */; };
 		183BA75224EBC50B00CB8E02 /* RNAssetCombinerTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183BA75124EBC50B00CB8E02 /* RNAssetCombinerTestTests.swift */; };
+		183BA75F24EBC5CD00CB8E02 /* AssetCombiner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183BA75C24EBC5CD00CB8E02 /* AssetCombiner.swift */; };
+		183BA76024EBC5CD00CB8E02 /* Json.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183BA75D24EBC5CD00CB8E02 /* Json.swift */; };
+		183BA76924EBC98300CB8E02 /* JsonData.json in Resources */ = {isa = PBXBuildFile; fileRef = 183BA76624EBC98300CB8E02 /* JsonData.json */; };
+		18E5F4B424ED57AD00E6BC0D /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E5F4B324ED57AD00E6BC0D /* Utils.swift */; };
+		18E5F4B624ED73C100E6BC0D /* copy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E5F4B524ED73C100E6BC0D /* copy.swift */; };
+		18E5F4BD24F79E8000E6BC0D /* IMG_8848.MOV in Resources */ = {isa = PBXBuildFile; fileRef = 18E5F4B824F79E8000E6BC0D /* IMG_8848.MOV */; };
+		18E5F4BE24F79E8000E6BC0D /* IMG_8849.MOV in Resources */ = {isa = PBXBuildFile; fileRef = 18E5F4B924F79E8000E6BC0D /* IMG_8849.MOV */; };
+		18E5F4BF24F79E8000E6BC0D /* IMG_8850.MOV in Resources */ = {isa = PBXBuildFile; fileRef = 18E5F4BA24F79E8000E6BC0D /* IMG_8850.MOV */; };
+		18E5F4C024F79E8000E6BC0D /* IMG_8851.MOV in Resources */ = {isa = PBXBuildFile; fileRef = 18E5F4BB24F79E8000E6BC0D /* IMG_8851.MOV */; };
+		18E5F4C124F79E8000E6BC0D /* IMG_8852.MOV in Resources */ = {isa = PBXBuildFile; fileRef = 18E5F4BC24F79E8000E6BC0D /* IMG_8852.MOV */; };
+		18E5F4F6250A6E2B00E6BC0D /* test.json in Resources */ = {isa = PBXBuildFile; fileRef = 18E5F4F5250A6E2B00E6BC0D /* test.json */; };
+		18E5F4F9250B7AD300E6BC0D /* exploding.png in Resources */ = {isa = PBXBuildFile; fileRef = 18E5F4F8250B7AD300E6BC0D /* exploding.png */; };
+		5E25329C946A7CF4E044F91D /* Pods_RNAssetCombinerTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B188FA3AD56492D27B938A36 /* Pods_RNAssetCombinerTest.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +43,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1825F8B42514DB1700DA1A45 /* fourth.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = fourth.mp4; sourceTree = "<group>"; };
+		1825F8B52514DB1700DA1A45 /* first.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = first.mp4; sourceTree = "<group>"; };
+		1825F8B8251628E800DA1A45 /* third.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = third.mp4; sourceTree = "<group>"; };
 		183BA73724EBC50800CB8E02 /* RNAssetCombinerTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RNAssetCombinerTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		183BA73A24EBC50800CB8E02 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		183BA73C24EBC50800CB8E02 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -38,6 +57,21 @@
 		183BA74D24EBC50B00CB8E02 /* RNAssetCombinerTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RNAssetCombinerTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		183BA75124EBC50B00CB8E02 /* RNAssetCombinerTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RNAssetCombinerTestTests.swift; sourceTree = "<group>"; };
 		183BA75324EBC50B00CB8E02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		183BA75C24EBC5CD00CB8E02 /* AssetCombiner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AssetCombiner.swift; sourceTree = "<group>"; };
+		183BA75D24EBC5CD00CB8E02 /* Json.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Json.swift; sourceTree = "<group>"; };
+		183BA76624EBC98300CB8E02 /* JsonData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JsonData.json; sourceTree = "<group>"; };
+		18E5F4B324ED57AD00E6BC0D /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
+		18E5F4B524ED73C100E6BC0D /* copy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = copy.swift; sourceTree = "<group>"; };
+		18E5F4B824F79E8000E6BC0D /* IMG_8848.MOV */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = IMG_8848.MOV; sourceTree = "<group>"; };
+		18E5F4B924F79E8000E6BC0D /* IMG_8849.MOV */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = IMG_8849.MOV; sourceTree = "<group>"; };
+		18E5F4BA24F79E8000E6BC0D /* IMG_8850.MOV */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = IMG_8850.MOV; sourceTree = "<group>"; };
+		18E5F4BB24F79E8000E6BC0D /* IMG_8851.MOV */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = IMG_8851.MOV; sourceTree = "<group>"; };
+		18E5F4BC24F79E8000E6BC0D /* IMG_8852.MOV */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = IMG_8852.MOV; sourceTree = "<group>"; };
+		18E5F4F5250A6E2B00E6BC0D /* test.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = test.json; sourceTree = "<group>"; };
+		18E5F4F8250B7AD300E6BC0D /* exploding.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = exploding.png; sourceTree = "<group>"; };
+		761BA7F88397D173881887F5 /* Pods-RNAssetCombinerTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNAssetCombinerTest.debug.xcconfig"; path = "Target Support Files/Pods-RNAssetCombinerTest/Pods-RNAssetCombinerTest.debug.xcconfig"; sourceTree = "<group>"; };
+		B188FA3AD56492D27B938A36 /* Pods_RNAssetCombinerTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RNAssetCombinerTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B67CCED78087CFD966C64C61 /* Pods-RNAssetCombinerTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNAssetCombinerTest.release.xcconfig"; path = "Target Support Files/Pods-RNAssetCombinerTest/Pods-RNAssetCombinerTest.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +79,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E25329C946A7CF4E044F91D /* Pods_RNAssetCombinerTest.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -64,6 +99,8 @@
 				183BA73924EBC50800CB8E02 /* RNAssetCombinerTest */,
 				183BA75024EBC50B00CB8E02 /* RNAssetCombinerTestTests */,
 				183BA73824EBC50800CB8E02 /* Products */,
+				70771183B34302CBC5312F2E /* Pods */,
+				4B282DC03579ACFB0FD468F9 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -79,13 +116,15 @@
 		183BA73924EBC50800CB8E02 /* RNAssetCombinerTest */ = {
 			isa = PBXGroup;
 			children = (
-				183BA73A24EBC50800CB8E02 /* AppDelegate.swift */,
-				183BA73C24EBC50800CB8E02 /* SceneDelegate.swift */,
+				183BA74824EBC50A00CB8E02 /* Info.plist */,
+				183BA76324EBC98300CB8E02 /* Resources */,
+				183BA76224EBC5D100CB8E02 /* Standart */,
+				183BA75C24EBC5CD00CB8E02 /* AssetCombiner.swift */,
+				18E5F4B524ED73C100E6BC0D /* copy.swift */,
+				183BA75D24EBC5CD00CB8E02 /* Json.swift */,
 				183BA73E24EBC50800CB8E02 /* ViewController.swift */,
 				183BA74024EBC50900CB8E02 /* Main.storyboard */,
-				183BA74324EBC50A00CB8E02 /* Assets.xcassets */,
-				183BA74524EBC50A00CB8E02 /* LaunchScreen.storyboard */,
-				183BA74824EBC50A00CB8E02 /* Info.plist */,
+				18E5F4B324ED57AD00E6BC0D /* Utils.swift */,
 			);
 			path = RNAssetCombinerTest;
 			sourceTree = "<group>";
@@ -99,6 +138,52 @@
 			path = RNAssetCombinerTestTests;
 			sourceTree = "<group>";
 		};
+		183BA76224EBC5D100CB8E02 /* Standart */ = {
+			isa = PBXGroup;
+			children = (
+				183BA73A24EBC50800CB8E02 /* AppDelegate.swift */,
+				183BA74524EBC50A00CB8E02 /* LaunchScreen.storyboard */,
+				183BA74324EBC50A00CB8E02 /* Assets.xcassets */,
+				183BA73C24EBC50800CB8E02 /* SceneDelegate.swift */,
+			);
+			path = Standart;
+			sourceTree = "<group>";
+		};
+		183BA76324EBC98300CB8E02 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				1825F8B8251628E800DA1A45 /* third.mp4 */,
+				1825F8B52514DB1700DA1A45 /* first.mp4 */,
+				1825F8B42514DB1700DA1A45 /* fourth.mp4 */,
+				18E5F4F8250B7AD300E6BC0D /* exploding.png */,
+				18E5F4B824F79E8000E6BC0D /* IMG_8848.MOV */,
+				18E5F4B924F79E8000E6BC0D /* IMG_8849.MOV */,
+				18E5F4BA24F79E8000E6BC0D /* IMG_8850.MOV */,
+				18E5F4BB24F79E8000E6BC0D /* IMG_8851.MOV */,
+				18E5F4BC24F79E8000E6BC0D /* IMG_8852.MOV */,
+				183BA76624EBC98300CB8E02 /* JsonData.json */,
+				18E5F4F5250A6E2B00E6BC0D /* test.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		4B282DC03579ACFB0FD468F9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B188FA3AD56492D27B938A36 /* Pods_RNAssetCombinerTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		70771183B34302CBC5312F2E /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				761BA7F88397D173881887F5 /* Pods-RNAssetCombinerTest.debug.xcconfig */,
+				B67CCED78087CFD966C64C61 /* Pods-RNAssetCombinerTest.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -106,9 +191,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 183BA75624EBC50B00CB8E02 /* Build configuration list for PBXNativeTarget "RNAssetCombinerTest" */;
 			buildPhases = (
+				7DB3504F36B84A7C72EAB0EB /* [CP] Check Pods Manifest.lock */,
 				183BA73324EBC50800CB8E02 /* Sources */,
 				183BA73424EBC50800CB8E02 /* Frameworks */,
 				183BA73524EBC50800CB8E02 /* Resources */,
+				271B5E36DD5EEBC8AFD27C29 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -180,8 +267,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1825F8B72514DB1800DA1A45 /* first.mp4 in Resources */,
 				183BA74724EBC50A00CB8E02 /* LaunchScreen.storyboard in Resources */,
+				1825F8B62514DB1800DA1A45 /* fourth.mp4 in Resources */,
+				18E5F4F9250B7AD300E6BC0D /* exploding.png in Resources */,
+				18E5F4BD24F79E8000E6BC0D /* IMG_8848.MOV in Resources */,
+				18E5F4BF24F79E8000E6BC0D /* IMG_8850.MOV in Resources */,
+				18E5F4C124F79E8000E6BC0D /* IMG_8852.MOV in Resources */,
+				1825F8B9251628E800DA1A45 /* third.mp4 in Resources */,
+				183BA76924EBC98300CB8E02 /* JsonData.json in Resources */,
+				18E5F4BE24F79E8000E6BC0D /* IMG_8849.MOV in Resources */,
 				183BA74424EBC50A00CB8E02 /* Assets.xcassets in Resources */,
+				18E5F4F6250A6E2B00E6BC0D /* test.json in Resources */,
+				18E5F4C024F79E8000E6BC0D /* IMG_8851.MOV in Resources */,
 				183BA74224EBC50900CB8E02 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -195,14 +293,60 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		271B5E36DD5EEBC8AFD27C29 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-RNAssetCombinerTest/Pods-RNAssetCombinerTest-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-RNAssetCombinerTest/Pods-RNAssetCombinerTest-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-RNAssetCombinerTest/Pods-RNAssetCombinerTest-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7DB3504F36B84A7C72EAB0EB /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-RNAssetCombinerTest-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		183BA73324EBC50800CB8E02 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				183BA73F24EBC50800CB8E02 /* ViewController.swift in Sources */,
+				183BA76024EBC5CD00CB8E02 /* Json.swift in Sources */,
+				183BA75F24EBC5CD00CB8E02 /* AssetCombiner.swift in Sources */,
 				183BA73B24EBC50800CB8E02 /* AppDelegate.swift in Sources */,
+				18E5F4B624ED73C100E6BC0D /* copy.swift in Sources */,
 				183BA73D24EBC50800CB8E02 /* SceneDelegate.swift in Sources */,
+				18E5F4B424ED57AD00E6BC0D /* Utils.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -360,6 +504,7 @@
 		};
 		183BA75724EBC50B00CB8E02 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 761BA7F88397D173881887F5 /* Pods-RNAssetCombinerTest.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -378,6 +523,7 @@
 		};
 		183BA75824EBC50B00CB8E02 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B67CCED78087CFD966C64C61 /* Pods-RNAssetCombinerTest.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;

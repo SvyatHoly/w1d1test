@@ -1,0 +1,135 @@
+
+
+
+{
+  "labels": [
+    {
+      "id": 1595499038197,
+      "dot": { "apply": false },
+      "active": true,
+      "styles": {
+        "top": 200,
+        "left": 0,
+        "color": "#FFF",
+        "zIndex": 5008,
+        "fontSize": 45,
+        "textAlign": "center",
+        "transform": [{ "scale": 1 }, { "rotate": "0deg" }],
+        "fontFamily": "regular",
+        "fontWeight": "500",
+        "prevFontSize": 45
+      },
+      "message": "What do you know?>"
+    }
+  ],
+  "photos": [],
+  "videos": [
+    {
+      "id": 1595499026647,
+      "uri": "https://s3-eu-west-1.amazonaws.com/wndrvideo-eu-west-1/lows/low-wonder-03a77fcc-b4df-a371-26aa-7c68cf8f7055.mov",
+      "local": "IMG_8848",
+      "active": true,
+      "format": "video",
+      "styles": {
+        "top": -100.83333587646484,
+        "left": 98.5,
+        "zIndex": 5003,
+        "position": "absolute",
+        "transform": [
+          { "scale": 0.2220719329391734 },
+          { "rotate": "-1.5137980910598117deg" }
+        ]
+      },
+      "origURI": "/var/mobile/Containers/Data/Application/CE005BC4-BEAD-4228-A80B-32E95A6A331C/Library/Caches/Camera/FAB0C70B-5B48-4DC8-8FBE-5325CB1BE65B.mov",
+      "localWidth": 375,
+      "localHeight": 812,
+      "videoOrientation": "landscape"
+    },
+    {
+      "id": 1595499033492,
+      "uri": "https://s3-eu-west-1.amazonaws.com/wndrvideo-eu-west-1/lows/low-wonder-fd0934f4-e044-93e4-5c99-7ad74893d753.mov",
+      "local": "IMG_8849",
+      "active": true,
+      "format": "video",
+      "styles": {
+        "top": 68,
+        "left": -83.83333587646484,
+        "zIndex": 5007,
+        "position": "absolute",
+        "transform": [
+          { "scale": 0.3322709840169841 },
+          { "rotate": "-2.6312461640556677deg" }
+        ]
+      },
+      "origURI": "/var/mobile/Containers/Data/Application/CE005BC4-BEAD-4228-A80B-32E95A6A331C/Library/Caches/Camera/16669DD9-AF59-4E08-935F-00FDF37A2299.mov",
+      "localWidth": 375,
+      "localHeight": 812,
+      "videoOrientation": "landscape"
+    },
+    {
+      "id": 1595499033492,
+      "uri": "https://s3-eu-west-1.amazonaws.com/wndrvideo-eu-west-1/lows/low-wonder-fd0934f4-e044-93e4-5c99-7ad74893d753.mov",
+      "local": "IMG_8850",
+      "active": true,
+      "format": "video",
+      "styles": {
+        "top": 68,
+        "left": -83.83333587646484,
+        "zIndex": 5007,
+        "position": "absolute",
+        "transform": [
+          { "scale": 0.3322709840169841 },
+          { "rotate": "-2.6312461640556677deg" }
+        ]
+      },
+      "origURI": "/var/mobile/Containers/Data/Application/CE005BC4-BEAD-4228-A80B-32E95A6A331C/Library/Caches/Camera/16669DD9-AF59-4E08-935F-00FDF37A2299.mov",
+      "localWidth": 375,
+      "localHeight": 812,
+      "videoOrientation": "landscape"
+    },
+    {
+      "id": 1595499033492,
+      "uri": "https://s3-eu-west-1.amazonaws.com/wndrvideo-eu-west-1/lows/low-wonder-fd0934f4-e044-93e4-5c99-7ad74893d753.mov",
+      "local": "IMG_8851",
+      "active": true,
+      "format": "video",
+      "styles": {
+        "top": 68,
+        "left": -83.83333587646484,
+        "zIndex": 5007,
+        "position": "absolute",
+        "transform": [
+          { "scale": 0.3322709840169841 },
+          { "rotate": "-2.6312461640556677deg" }
+        ]
+      },
+      "origURI": "/var/mobile/Containers/Data/Application/CE005BC4-BEAD-4228-A80B-32E95A6A331C/Library/Caches/Camera/16669DD9-AF59-4E08-935F-00FDF37A2299.mov",
+      "localWidth": 375,
+      "localHeight": 812,
+      "videoOrientation": "landscape"
+    },
+    {
+      "id": 1595499033492,
+      "uri": "https://s3-eu-west-1.amazonaws.com/wndrvideo-eu-west-1/lows/low-wonder-fd0934f4-e044-93e4-5c99-7ad74893d753.mov",
+      "local": "IMG_8852",
+      "active": true,
+      "format": "video",
+      "styles": {
+        "top": 68,
+        "left": -83.83333587646484,
+        "zIndex": 5007,
+        "position": "absolute",
+        "transform": [
+          { "scale": 0.3322709840169841 },
+          { "rotate": "-2.6312461640556677deg" }
+        ]
+      },
+      "origURI": "/var/mobile/Containers/Data/Application/CE005BC4-BEAD-4228-A80B-32E95A6A331C/Library/Caches/Camera/16669DD9-AF59-4E08-935F-00FDF37A2299.mov",
+      "localWidth": 375,
+      "localHeight": 812,
+      "videoOrientation": "landscape"
+    }
+  ],
+  "stickers": [],
+  "background": { "type": "color", "value": "#EBEBEB" }
+}
