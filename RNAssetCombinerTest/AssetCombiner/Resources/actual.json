@@ -1,0 +1,41 @@
+{
+   "background":{
+      "type":"color",
+      "value":"#EBEBEB"
+   },
+   "labels":[
+      
+   ],
+   "photos":[
+       {
+          "id":1608712664616,
+          "uri":"",
+          "local":"IMG_4596",
+          "active":true,
+          "format":"photo",
+          "styles":{
+             "top":0,
+             "left":0,
+             "zIndex":5000,
+             "transform":[
+                {
+                   "scale":1
+                },
+                {
+                   "rotate":"0deg"
+                }
+             ]
+          },
+          "origURI":"/var/mobile/Containers/Data/Application/14BC3326-FAE3-4955-85B4-799848388F48/Library/Caches/Camera/0FE73D9B-35B2-4C0C-BC83-2AA83DC3B3A9.jpg",
+          "localWidth":414,
+          "localHeight":896,
+          "videoOrientation":"portrait"
+       }
+   ],
+   "stickers":[
+      
+   ],
+   "videos":[
+
+   ]
+}

@@ -1,16 +1,3 @@
-PODS:
-  - NextLevelSessionExporter (0.4.5)
+PODFILE CHECKSUM: 4718c417e49f7cf5acab2c69628f424ea0ee1f02
 
-DEPENDENCIES:
-  - NextLevelSessionExporter
-
-SPEC REPOS:
-  trunk:
-    - NextLevelSessionExporter
-
-SPEC CHECKSUMS:
-  NextLevelSessionExporter: 9abd19742084fc9563f644b21e0f994339338d4e
-
-PODFILE CHECKSUM: ac9da99a33b8ca29b1381225ce22dc65bfdee3ec
-
-COCOAPODS: 1.9.3
+COCOAPODS: 1.10.0

@@ -4,7 +4,7 @@ inhibit_all_warnings!
 
 
 def available_pods
-    pod 'NextLevelSessionExporter'
+
 end
 
 target 'RNAssetCombinerTest' do

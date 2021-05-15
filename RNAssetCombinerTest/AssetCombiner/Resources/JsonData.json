@@ -1,0 +1,73 @@
+{
+   "labels":[
+      {
+         "id":1606154539085,
+         "dot":{
+            "apply":false
+         },
+         "active":true,
+         "styles":{
+            "top":650.25,
+            "left":5,
+            "color":"#000000",
+            "zIndex":5053,
+            "fontSize":23,
+            "position":"absolute",
+            "textAlign":"left",
+            "transform":[
+               {
+                  "scale":0.8898987994998531
+               },
+               {
+                  "rotate":"0.37777973527930353deg"
+               }
+            ],
+            "fontFamily":"regular",
+            "fontWeight":"500",
+            "prevFontSize":23
+         },
+         "message":"Май 2019,\nХуло, Грузия"
+      },
+      {
+         "id":1606154569321,
+         "dot":{
+            "apply":false
+         },
+         "active":true,
+         "styles":{
+            "top":632.75,
+            "left":113.25,
+            "color":"#000000",
+            "zIndex":5030,
+            "fontSize":22,
+            "position":"absolute",
+            "textAlign":"left",
+            "transform":[
+               {
+                  "scale":0.6248170179730622
+               },
+               {
+                  "rotate":"-0.43534572411152794deg"
+               }
+            ],
+            "fontFamily":"regular",
+            "fontWeight":"500",
+            "prevFontSize":22
+         },
+         "message":"Величие и спокойствие зеленых гор. Поездка на стареньком фуникулере между ними. Часто вспоминаю этот день и место."
+      }
+   ],
+   "photos":[
+      
+   ],
+   "videos":[
+      
+   ],
+   "stickers":[
+      
+   ],
+   "background":{
+      "type":"color",
+      "value":"#EBEBEB"
+   }
+}

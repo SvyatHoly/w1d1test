@@ -1,0 +1,41 @@
+{
+   "labels":[
+      
+   ],
+   "photos":[
+      
+   ],
+   "videos":[
+      {
+         "id":1605992767296,
+         "uri":"https://s3-eu-west-1.amazonaws.com/wndrvideo-eu-west-1/lows/low-wonder-3b87e903-0121-a609-a714-351dc0305eb6.mov",
+         "local":"low",
+         "active":true,
+         "format":"video",
+         "styles":{
+            "top":0,
+            "left":-45,
+            "zIndex":5000,
+            "transform":[
+               {
+                  "scale":1.5
+               },
+               {
+                  "rotate":"0deg"
+               }
+            ]
+         },
+         "origURI":"assets-library://asset/asset.mov?id=9BEBE9E4-A06B-4A85-BEE6-6A984DD7601A&ext=mov",
+         "localWidth":1080,
+         "localHeight":1920,
+         "videoOrientation":"portrait"
+      }
+   ],
+   "stickers":[
+      
+   ],
+   "background":{
+      "type":"color",
+      "value":"#EBEBEB"
+   }
+}

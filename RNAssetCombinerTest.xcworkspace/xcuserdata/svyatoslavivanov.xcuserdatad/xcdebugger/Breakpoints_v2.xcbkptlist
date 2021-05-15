@@ -7,128 +7,1134 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "3F9F3525-B2F7-4958-BFCC-08CB9B6D60EA"
+            uuid = "1FC6A582-B51C-4F44-9C2F-8D8A6518C904"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "RNAssetCombinerTest/AssetCombiner.swift"
+            filePath = "RNAssetCombinerTest/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "256"
-            endingLineNumber = "256"
-            landmarkName = "createVideo()"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "58BA4562-472C-4F2F-AC7F-CCEBD4E71FAF"
+            uuid = "37CB474C-95BA-4F08-B116-C42E7019662B"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "RNAssetCombinerTest/AssetCombiner.swift"
+            filePath = "RNAssetCombinerTest/VideoWriter.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "260"
-            endingLineNumber = "260"
-            landmarkName = "createVideo()"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "createAssetWriter(outputURL:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B12EEF26-5517-4391-8387-02BC83447910"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/ImageAnimator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "render(completion:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "FB3A2165-C0FA-46AD-9DF1-8D5AF31B147F"
+            uuid = "7E83D4DF-6C8E-47AF-B249-2A0F1CAC134D"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "RNAssetCombinerTest/AssetCombiner.swift"
+            filePath = "RNAssetCombinerTest/VideoWriter.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "265"
-            endingLineNumber = "265"
-            landmarkName = "createVideo()"
+            startingLineNumber = "156"
+            endingLineNumber = "156"
+            landmarkName = "render(appendPixelBuffers:completion:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "91F30B9C-4193-4BB6-92D5-DC980456AB12"
+            uuid = "496FA84D-0DBE-4228-A2B3-56971264B63A"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "RNAssetCombinerTest/AssetCombiner.swift"
+            filePath = "RNAssetCombinerTest/ImageAnimator.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "261"
-            endingLineNumber = "261"
-            landmarkName = "createVideo()"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "removeFileAtURL(fileURL:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "827CF074-A867-4A72-8931-06B926DC65D8"
+            uuid = "F16BD2A6-06E7-440B-9EB7-1360AFE59016"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "RNAssetCombinerTest/AssetCombiner.swift"
+            filePath = "RNAssetCombinerTest/ImageAnimator.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "227"
-            endingLineNumber = "227"
-            landmarkName = "createVideo()"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "removeFileAtURL(fileURL:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "6DADB11A-572E-456E-8CDA-846369571600"
+            uuid = "1684BDFB-0B3F-4452-B005-7000107DE061"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "RNAssetCombinerTest/AssetCombiner.swift"
+            filePath = "RNAssetCombinerTest/ImageAnimator.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "62"
-            endingLineNumber = "62"
-            landmarkName = "setLayerTransform(layer:styles:scaleMultiplier:)"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "removeFileAtURL(fileURL:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "0D16EF29-20B7-41F1-9BF9-C23789B6B03C"
+            uuid = "25705DF7-D3F5-4E2F-9822-BA1FA0ED6DF8"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "RNAssetCombinerTest/AssetCombiner.swift"
+            filePath = "RNAssetCombinerTest/ImageAnimator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "render(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58A06F1E-0E01-43CF-A3E2-30E95D569D30"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/ImageAnimator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "render(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F6B199E-B299-4A68-9574-CD86C4C2EF3E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/ImageAnimator.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "80"
             endingLineNumber = "80"
-            landmarkName = "calcInstructionOffset(transform:index:squareDevider:maxCapacity:sWidth:sHeight:)"
+            landmarkName = "render(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5F6B199E-B299-4A68-9574-CD86C4C2EF3E - f6f6cda58a1ad386"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in RNAssetCombinerTest.ImageAnimator.render(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/ImageAnimator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "832">
+               </Location>
+               <Location
+                  uuid = "5F6B199E-B299-4A68-9574-CD86C4C2EF3E - acd1a88f0402202e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #2 (RNAssetCombinerTest.VideoWriter) -&gt; Swift.Bool in implicit closure #1 (RNAssetCombinerTest.ImageAnimator) -&gt; (RNAssetCombinerTest.VideoWriter) -&gt; Swift.Bool in closure #1 () -&gt; () in RNAssetCombinerTest.ImageAnimator.render(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/ImageAnimator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "5F6B199E-B299-4A68-9574-CD86C4C2EF3E - bd25276b4ff5146b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; () in RNAssetCombinerTest.ImageAnimator.render(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/ImageAnimator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A9C9C0F-79F4-407A-8A13-F6053835AF09"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/ImageAnimator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "render(completion:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "3B59591D-0CDC-46D5-8656-8B65B3B5D57E"
+            uuid = "24EC2A71-815E-41B2-A26D-69BF33ADE9B5"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "RNAssetCombinerTest/AssetCombiner.swift"
+            filePath = "RNAssetCombinerTest/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "206"
-            endingLineNumber = "206"
-            landmarkName = "createVideo()"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9EB2C39-2157-45CD-ACB0-783C1066C769"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/Utils/Utils.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "loadAssetFromLibrary(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4F4DEA0-BEE9-49CF-A182-B9892AD17C62"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/Utils/Utils.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "loadAssetFromLibrary(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "410893F2-7769-48F9-83D1-3078BE2E2436"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/Utils/Utils.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "loadAssetFromLibrary(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86C460CA-03A9-4AA8-8F24-5D2B9B38ADAF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/VideoMixer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "compose(data:complete:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7ED7529-DD23-47D5-A948-3FE3B18D3DEE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/VideoMixer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "compose(data:complete:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D7ED7529-DD23-47D5-A948-3FE3B18D3DEE - 9543cbbc3710f873"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #4 () -&gt; () in RNAssetCombinerTest.VideoMixer.composeVideo(data: Swift.Array&lt;RNAssetCombinerTest.CombinerData&gt;, complete: (() throws -&gt; Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/VideoMixer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "1292">
+               </Location>
+               <Location
+                  uuid = "D7ED7529-DD23-47D5-A948-3FE3B18D3DEE - a8673aa0dc4aec2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 () -&gt; () in closure #1 () -&gt; () in closure #4 () -&gt; () in RNAssetCombinerTest.VideoMixer.composeVideo(data: Swift.Array&lt;RNAssetCombinerTest.CombinerData&gt;, complete: (() throws -&gt; Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/VideoMixer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1497FAAB-7A71-41AD-9400-5265F979DC7B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/VideoMixer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "compose(data:complete:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "453B6BDF-D80E-45C0-996D-0B5A2EC2DBC2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/AssetCombiner.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "parseJson(json:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "453B6BDF-D80E-45C0-996D-0B5A2EC2DBC2 - a28b62c8c4034364"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RNAssetCombinerTest.AssetCombiner.(parseJson in _0FB06EE3034417D3307F0377A1683AFC)(json: Swift.Dictionary&lt;Swift.String, Any&gt;) throws -&gt; RNAssetCombinerTest.JSON"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/AssetCombiner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "640">
+               </Location>
+               <Location
+                  uuid = "453B6BDF-D80E-45C0-996D-0B5A2EC2DBC2 - a28b62c8c4034364"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RNAssetCombinerTest.AssetCombiner.(parseJson in _0FB06EE3034417D3307F0377A1683AFC)(json: Swift.Dictionary&lt;Swift.String, Any&gt;) throws -&gt; RNAssetCombinerTest.JSON"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/AssetCombiner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "708">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49D24915-BBAC-47F8-82C7-822DE0A0EE73"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/VideoGenerator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "startRender(at:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A7ABBA6-816B-419F-82C5-24B03EB5CBB4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/VideoGenerator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "render(assets:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0A7ABBA6-816B-419F-82C5-24B03EB5CBB4 - af7f8aa097654ad7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (() throws -&gt; (id: Swift.Int, url: Foundation.URL)) -&gt; () in closure #1 () -&gt; () in RNAssetCombinerTest.VideoGenerator.render(assets: Swift.Array&lt;RNAssetCombinerTest.Asset&gt;, completion: (() throws -&gt; Swift.Array&lt;RNAssetCombinerTest.Asset&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/VideoGenerator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "452">
+               </Location>
+               <Location
+                  uuid = "0A7ABBA6-816B-419F-82C5-24B03EB5CBB4 - dcb905168eda5cca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RNAssetCombinerTest.VideoGeneratorData) -&gt; Swift.Bool in closure #1 (() throws -&gt; (id: Swift.Int, url: Foundation.URL)) -&gt; () in closure #1 () -&gt; () in RNAssetCombinerTest.VideoGenerator.render(assets: Swift.Array&lt;RNAssetCombinerTest.Asset&gt;, completion: (() throws -&gt; Swift.Array&lt;RNAssetCombinerTest.Asset&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/VideoGenerator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3A8FD46-B51D-4C83-9BF8-62D159E94CA5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/VideoWriter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "start()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04C0330F-0227-47F5-8FF4-7A28F11AB45F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/VideoGenerator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "render(assets:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CBC2397-AAF9-4912-BEF3-636152F524C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/VideoGenerator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "returnAssetsWithUrl(finalComletion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9CBC2397-AAF9-4912-BEF3-636152F524C8 - cb04fbea728b74b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RNAssetCombinerTest.VideoGenerator.(returnAssetsWithUrl in _3FEA08AF9B6C99EE21F1274C69C70D86)(finalComletion: (() throws -&gt; Swift.Array&lt;RNAssetCombinerTest.Asset&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/VideoGenerator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "370">
+               </Location>
+               <Location
+                  uuid = "9CBC2397-AAF9-4912-BEF3-636152F524C8 - cc1ea1500a02adb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; Swift.Array&lt;RNAssetCombinerTest.Asset&gt; in RNAssetCombinerTest.VideoGenerator.(returnAssetsWithUrl in _3FEA08AF9B6C99EE21F1274C69C70D86)(finalComletion: (() throws -&gt; Swift.Array&lt;RNAssetCombinerTest.Asset&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/VideoGenerator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4E34A7B-D01B-491B-8377-77ED81BC5ED9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/AssetCombiner.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "generateCombinerDataArray(json:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F39A6B9F-C0D0-4A80-8643-FD42F7E1B270"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/AssetCombiner.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "generateCombinerDataArray(json:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA5AA9B9-793E-4CC9-9BDA-532062168647"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/AssetCombiner.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "generateCombinerDataArray(json:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "142DC12E-6306-40B9-BE2E-EEF24E263440"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/AssetCombiner.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "generateCombinerDataArray(json:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "142DC12E-6306-40B9-BE2E-EEF24E263440 - 73d603e8fd5ba75e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RNAssetCombinerTest.AssetCombiner.(generateCombinerDataArray in _0FB06EE3034417D3307F0377A1683AFC)(json: RNAssetCombinerTest.JSON) throws -&gt; Swift.Array&lt;RNAssetCombinerTest.CombinerData&gt;"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/AssetCombiner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "1623">
+               </Location>
+               <Location
+                  uuid = "142DC12E-6306-40B9-BE2E-EEF24E263440 - 2a2c2cb5fab3df70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (RNAssetCombinerTest.Asset) -&gt; () in RNAssetCombinerTest.AssetCombiner.(generateCombinerDataArray in _0FB06EE3034417D3307F0377A1683AFC)(json: RNAssetCombinerTest.JSON) throws -&gt; Swift.Array&lt;RNAssetCombinerTest.CombinerData&gt;"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/AssetCombiner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "138">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92CB8CB4-41A1-4C9C-9AC1-218EB6B055E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/AssetCombiner.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "generateCombinerDataArray(json:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "180B5703-3B96-4087-A539-820907AEFA21"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/AssetCombiner.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "generateCombinerDataArray(json:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCD636C3-0F2E-4C61-A10F-3087F0DF5B27"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/AssetCombiner.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "generateCombinerDataArray(json:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8787213E-6757-4DE2-BEDF-4165510E2F3F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/AssetCombiner.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "318"
+            endingLineNumber = "318"
+            landmarkName = "combine(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B859CFB-9F6D-48E7-91B6-369ED2ECD2D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/VideoMixer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "compose(data:complete:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B688DC12-EFD4-45B3-B35A-9E1712D4183E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/VideoMixer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "compose(data:complete:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "315B147C-E46E-4032-ADF5-8E0A9BCA4E37"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/VideoMixer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "compose(data:complete:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C94244B-AD1E-45A4-8E06-ACE4DB45A0E4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/VideoMixer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "compose(data:complete:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4C94244B-AD1E-45A4-8E06-ACE4DB45A0E4 - 9543cbbc3710f988"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #4 () -&gt; () in RNAssetCombinerTest.VideoMixer.composeVideo(data: Swift.Array&lt;RNAssetCombinerTest.CombinerData&gt;, complete: (() throws -&gt; Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/VideoMixer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "1724">
+               </Location>
+               <Location
+                  uuid = "4C94244B-AD1E-45A4-8E06-ACE4DB45A0E4 - ea56e3b85071e587"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #7 () -&gt; Foundation.URL in closure #1 () -&gt; () in closure #4 () -&gt; () in RNAssetCombinerTest.VideoMixer.composeVideo(data: Swift.Array&lt;RNAssetCombinerTest.CombinerData&gt;, complete: (() throws -&gt; Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/VideoMixer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2180330E-8372-432E-938E-6EA08FDCBCF7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/VideoMixer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "compose(data:complete:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2180330E-8372-432E-938E-6EA08FDCBCF7 - 9543cbbc3710fade"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #4 () -&gt; () in RNAssetCombinerTest.VideoMixer.composeVideo(data: Swift.Array&lt;RNAssetCombinerTest.CombinerData&gt;, complete: (() throws -&gt; Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/VideoMixer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "472">
+               </Location>
+               <Location
+                  uuid = "2180330E-8372-432E-938E-6EA08FDCBCF7 - d15ace36de1efb2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RNAssetCombinerTest.CombinerData) -&gt; Swift.Bool in closure #1 () -&gt; () in closure #4 () -&gt; () in RNAssetCombinerTest.VideoMixer.composeVideo(data: Swift.Array&lt;RNAssetCombinerTest.CombinerData&gt;, complete: (() throws -&gt; Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/VideoMixer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F179C8BE-81D4-4B13-8BE2-811CEA8A03E9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/VideoMixer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "compose(data:complete:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "064BB0D0-D4EB-4E8C-A6F5-A2403263E46D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/VideoMixer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "compose(data:complete:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9029BD99-918A-4949-B158-09E976195760"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/VideoMixer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "compose(data:complete:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9029BD99-918A-4949-B158-09E976195760 - 9543cbbc3710fb5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #4 () -&gt; () in RNAssetCombinerTest.VideoMixer.composeVideo(data: Swift.Array&lt;RNAssetCombinerTest.CombinerData&gt;, complete: (() throws -&gt; Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/VideoMixer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "1028">
+               </Location>
+               <Location
+                  uuid = "9029BD99-918A-4949-B158-09E976195760 - 5ca90eb461d81be2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in closure #1 () -&gt; () in closure #4 () -&gt; () in RNAssetCombinerTest.VideoMixer.composeVideo(data: Swift.Array&lt;RNAssetCombinerTest.CombinerData&gt;, complete: (() throws -&gt; Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/VideoMixer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "9029BD99-918A-4949-B158-09E976195760 - 8ca85fa2cc167e7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 () -&gt; () in closure #4 () -&gt; () in RNAssetCombinerTest.VideoMixer.composeVideo(data: Swift.Array&lt;RNAssetCombinerTest.CombinerData&gt;, complete: (() throws -&gt; Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/VideoMixer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04DC3FE2-F5AD-4B50-9F21-2318997E8FD5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/VideoMixer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "compose(data:complete:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07CB0FCD-1E09-4EAC-BE89-C6317A3D6A68"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/VideoGenerator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "saveToLibrary(videoURL:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "07CB0FCD-1E09-4EAC-BE89-C6317A3D6A68 - a36226b46d10f830"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RNAssetCombinerTest.VideoGenerator.(saveToLibrary in _3FEA08AF9B6C99EE21F1274C69C70D86)(videoURL: Foundation.URL) -&gt; ()"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/VideoGenerator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "672">
+               </Location>
+               <Location
+                  uuid = "07CB0FCD-1E09-4EAC-BE89-C6317A3D6A68 - a971e26021c72c76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.PHAuthorizationStatus) -&gt; () in RNAssetCombinerTest.VideoGenerator.(saveToLibrary in _3FEA08AF9B6C99EE21F1274C69C70D86)(videoURL: Foundation.URL) -&gt; ()"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/VideoGenerator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "193"
+                  endingLineNumber = "193"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "573BE669-5C90-4B99-88C8-016B485D652E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/ImageMixer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "compose(assets:complete:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "573BE669-5C90-4B99-88C8-016B485D652E - 6b1078664b00ca89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RNAssetCombinerTest.ImageMixer.compose(assets: Swift.Array&lt;RNAssetCombinerTest.Asset&gt;, complete: (() throws -&gt; Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/ImageMixer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "2468">
+               </Location>
+               <Location
+                  uuid = "573BE669-5C90-4B99-88C8-016B485D652E - 99f46f6f173deb15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 () -&gt; Foundation.URL in RNAssetCombinerTest.ImageMixer.compose(assets: Swift.Array&lt;RNAssetCombinerTest.Asset&gt;, complete: (() throws -&gt; Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/ImageMixer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4F4CC4C-FFA6-43D5-8A03-C8A97004B6C3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/ImageMixer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "compose(assets:complete:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D4F4CC4C-FFA6-43D5-8A03-C8A97004B6C3 - 6b1078664b00cd15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RNAssetCombinerTest.ImageMixer.compose(assets: Swift.Array&lt;RNAssetCombinerTest.Asset&gt;, complete: (() throws -&gt; Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/ImageMixer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "2728">
+               </Location>
+               <Location
+                  uuid = "D4F4CC4C-FFA6-43D5-8A03-C8A97004B6C3 - f3b412bf970fa3a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 () throws -&gt; Foundation.URL in RNAssetCombinerTest.ImageMixer.compose(assets: Swift.Array&lt;RNAssetCombinerTest.Asset&gt;, complete: (() throws -&gt; Foundation.URL) -&gt; ()) -&gt; ()"
+                  moduleName = "RNAssetCombinerTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/svyatoslavivanov/Desktop/W1D1/RNAssetCombinerTest/RNAssetCombinerTest/AssetCombiner/ImageMixer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F8AB0C9-3BF2-44FC-AEFA-97547D16D211"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RNAssetCombinerTest/AssetCombiner/AffineTransformer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "createTransform(size:width:height:styles:orientation:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

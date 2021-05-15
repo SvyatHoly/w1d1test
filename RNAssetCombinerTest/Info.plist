@@ -66,5 +66,30 @@
 	</array>
 	<key>LSSupportsOpeningDocumentsInPlace</key>
 	<true/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>BasisGrotesquePro-Bold.ttf</string>
+		<string>BasisGrotesquePro-Light.ttf</string>
+		<string>BasisGrotesquePro-Regular.ttf</string>
+		<string>Wremena Regular.otf</string>
+		<string>Bagnard.otf</string>
+		<string>terminal-grotesque_open.ttf</string>
+		<string>Trickster-Reg.ttf</string>
+		<string>Druk Wide-Medium-Desktop.otf</string>
+		<string>CoFo_Sans-Black.ttf</string>
+		<string>CoFo_Sans-Bold.ttf</string>
+		<string>CoFo_Sans-Medium.ttf</string>
+		<string>CoFo_Sans-Regular.ttf</string>
+		<string>schwabachergrotesk.otf</string>
+		<string>Grtsk-Giga-Medium.ttf</string>
+		<string>Grtsk-Giga-Regular.otf</string>
+		<string>Menoe Grotesque-Regular-Desktop.otf</string>
+		<string>Archaism-Ct2Wd50-Trial.ttf</string>
+		<string>Transgender Grotesk-Regular-App.ttf</string>
+		<string>Apoc-Regular-App.ttf</string>
+		<string>Epos-Medium-App.ttf</string>
+		<string>HalvarBreitCY-Desktop-Rg.otf</string>
+		<string>HalvarBreitCY-Desktop-Md.otf</string>
+	</array>
 </dict>
 </plist>
